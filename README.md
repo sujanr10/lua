@@ -1,2 +1,2 @@
 # lua
-Lua programming languag
+Lua programming language
